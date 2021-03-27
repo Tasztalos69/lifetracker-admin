@@ -1,0 +1,10 @@
+{
+  "jsxSingleQuote": true,
+  "singleQuote": true,
+  "packageManager": "yarn",
+  "trailingComma": "all",
+  "proseWrap": "never",
+  "arrowParens": "avoid",
+  "jsxBracketSameLine": true,
+  "javascript.format.semicolons": "insert"
+}
