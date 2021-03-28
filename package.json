@@ -1,7 +1,7 @@
 {
-  "name": "lifetracker-admin",
+  "name": "@tasztalos69/lifetracker-admin",
   "version": "0.2.0",
-  "author": "Kiss Benedek Máté @Tasztalos69",
+  "author": "Kiss Benedek Máté",
   "bin": {
     "ltadmin": "./bin/run"
   },
@@ -40,7 +40,10 @@
   "oclif": {
     "bin": "ltadmin"
   },
-  "repository": "Tasztalos69/lifetracker-admin",
+  "repository": "git://github.com/tasztalos69/lifetracker-admin.git",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
   "scripts": {
     "posttest": "eslint . --ext .ts --config .eslintrc",
     "prepack": "rm -rf lib && tsc -b && oclif-dev readme",

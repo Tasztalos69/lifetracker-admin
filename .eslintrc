@@ -2,6 +2,11 @@
   "extends": ["oclif", "oclif-typescript"],
   "rules": {
     "object-curly-spacing": "off",
-    "semi": "off"
+    "semi": "off",
+    "no-console": "off",
+    "indent": "off",
+    "operator-linebreak": "off",
+    "no-process-exit": "off",
+    "unicorn/no-process-exit": "off"
   }
 }

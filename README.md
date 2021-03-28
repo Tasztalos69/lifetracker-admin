@@ -15,11 +15,11 @@ lifetracker-admin
 # Usage
 <!-- usage -->
 ```sh-session
-$ npm install -g lifetracker-admin
+$ npm install -g @tasztalos69/lifetracker-admin
 $ ltadmin COMMAND
 running command...
 $ ltadmin (-v|--version|version)
-lifetracker-admin/0.2.0 linux-x64 node-v15.9.0
+@tasztalos69/lifetracker-admin/0.2.0 linux-x64 node-v15.9.0
 $ ltadmin --help [COMMAND]
 USAGE
   $ ltadmin COMMAND
