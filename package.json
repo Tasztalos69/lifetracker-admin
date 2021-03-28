@@ -1,9 +1,9 @@
 {
   "name": "@tasztalos69/lifetracker-admin",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "author": "Kiss Benedek Máté",
   "bin": {
-    "ltadmin": "./bin/run"
+    "ltadmin": "bin/run"
   },
   "bugs": "https://github.com/Tasztalos69/lifetracker-admin/issues",
   "dependencies": {

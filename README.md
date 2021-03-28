@@ -19,7 +19,7 @@ $ npm install -g @tasztalos69/lifetracker-admin
 $ ltadmin COMMAND
 running command...
 $ ltadmin (-v|--version|version)
-@tasztalos69/lifetracker-admin/0.2.0 linux-x64 node-v15.9.0
+@tasztalos69/lifetracker-admin/0.3.0 linux-x64 node-v15.9.0
 $ ltadmin --help [COMMAND]
 USAGE
   $ ltadmin COMMAND
